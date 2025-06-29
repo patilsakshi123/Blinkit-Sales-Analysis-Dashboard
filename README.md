@@ -17,25 +17,25 @@ The report is designed to answer key business questions related to:
 
 📌 **KPIs Implemented**
 
-- * Total Sales – Sum of revenue from all items sold
+- **Total Sales** – Sum of revenue from all items sold
   
-- * Average Sales – Average revenue per transaction or item
+- **Average Sales** – Average revenue per transaction or item
   
-- * Number of Items Sold – Count of distinct items sold
+- **Number of Items Sold** – Count of distinct items sold
   
-- * Average Rating – Mean customer rating for sold items
+- ** Average Rating** – Mean customer rating for sold items
 
 📈 **Visualizations & Objectives**
 
-**Total Sales by Fat Content**
+- **Total Sales by Fat Content**
 
-**Objective:** Analyze how fat content influences total sales and related KPIs
+  **Objective:** Analyze how fat content influences total sales and related KPIs
 
-**Chart Type:** Donut Chart
+- **Chart Type:** Donut Chart
 
-**Total Sales by Item Type**
+  **Total Sales by Item Type**
 
-**Objective:** Evaluate item type performance by total sales and additional KPIs
+- **Objective:** Evaluate item type performance by total sales and additional KPIs
 
 **Chart Type:** Bar Chart
 
