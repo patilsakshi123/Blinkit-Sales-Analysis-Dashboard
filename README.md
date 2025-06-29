@@ -77,7 +77,7 @@ The report is designed to answer key business questions related to:
 
   **Chart Type:** Matrix Card
 
-  ---
+---
 
 🖼️ **Dashboard Snapshots:**
 
